@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inimesed>
+  <registr>
+    <autonumber>Oleg</autonumber>
+    <perenimi>Kruglov</perenimi>
+    <synd>2003</synd>
+  </registr>
+  <registr>
+    <autonumber>Aleksand</autonumber>
+    <perenimi>Dune</perenimi>
+    <synd>2003</synd>
+  </registr>
+  <registr>
+    <autonumber>Karim</autonumber>
+    <perenimi>Losharov</perenimi>
+    <synd>1002</synd>
+  </registr>
+  <registr>
+      <autonumber>Vladislav</autonumber>
+      <perenimi>Donhurme</perenimi>
+      <synd>2003</synd>
+  </registr>
+  <registr>
+    <autonumber>Artem</autonumber>
+    <perenimi>Pudgenko</perenimi>
+    <synd>2003</synd>
+  </registr>
+</inimesed>
